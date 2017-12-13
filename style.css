@@ -1,0 +1,377 @@
+body {
+    background-color: rgb(29, 29, 29);
+    border: 3px solid black;
+}
+
+h1 {
+    border: 2px solid #ffffff;
+    text-shadow: 3px 3px rgba(34, 34, 34, 0.342);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    font-size: 45px;
+}
+
+h2 {
+    border: 2px solid #ffffff;
+    text-shadow: 3px 3px rgba(34, 34, 34, 0.342);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    font-size: 45px;
+}
+
+table {
+    border: 10px solid black;
+    color: black;
+    font-style: bold;
+    font-size: 17px;
+    text-align: left;
+    background-color: silver;
+    text-shadow: 0.5px 0.5px rgb(0, 0, 0);
+    line-height: 150%;
+}
+
+#Kosarka {
+    width: 440px;
+    height: 300px;
+}
+
+#Tabela2 {
+    border: 10px solid black;
+    color: black;
+    font-style: bold;
+    font-size: 20px;
+    text-align: left;
+    background-color: silver;
+    text-shadow: 0.5px 0.5px rgb(10, 0, 0);
+    line-height: 150%;
+}
+
+#Teren {
+    border: solid 2px grey;
+    width: 300px;
+    height: 420px;
+}
+
+#T {
+    border: solid 2px rgb(0, 35, 37);
+    color: rgb(36, 36, 36);
+    font-style: italic;
+    font-size: 12px;
+    text-shadow: 0.5px 0.5px slategray;
+}
+
+#zaglavlje {
+    border: 2px solid #ffffff;
+    text-shadow: 3px 3px rgba(34, 34, 34, 0.342);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    font-size: 45px;
+}
+
+#Kent {
+    border: solid 2px rgb(0, 35, 37);
+    color: rgb(36, 36, 36);
+    font-style: italic;
+    font-size: 12px;
+    text-shadow: 0.5px 0.5px slategray;
+}
+
+#James {
+    border: 10px solid black;
+    color: black;
+    font-style: bold;
+    font-size: 20px;
+    text-align: left;
+    background-color: silver;
+    text-shadow: 0.5px 0.5px rgb(10, 0, 0);
+    line-height: 150%;
+}
+
+#Jasmin {
+    border: 2px solid #ffffff;
+    text-shadow: 3px 3px rgba(34, 34, 34, 0.342);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    font-size: 45px;
+}
+
+#Jalje {
+    border: 10px solid black;
+    color: black;
+    font-style: bold;
+    font-size: 20px;
+    text-align: left;
+    background-color: silver;
+    text-shadow: 0.5px 0.5px rgb(10, 0, 0);
+    line-height: 150%;
+    text-decoration-line: unset;
+}
+
+#NBA {
+    border: 2px solid #1a01ff;
+    text-shadow: 3px 3px rgba(253, 6, 6, 0.342);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    font-size: 45px;
+}
+
+#JALENBA {
+    border: 10px solid black;
+    color: rgb(255, 255, 255);
+    font-style: bold;
+    font-size: 20px;
+    text-align: left;
+    background-color: rgb(2, 3, 44);
+    text-shadow: 1px 1px rgb(255, 0, 0);
+    line-height: 150%;
+}
+
+#Slidza {
+    border: solid 2px grey;
+    width: 500px;
+    height: 400px;
+}
+
+#NBASLIKA {
+    border: solid 2px rgb(0, 35, 37);
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    font-size: 25px;
+    text-shadow: 0.5px 0.5px slategray;
+    text-align: center;
+    text-shadow: 1px 1px rgb(255, 0, 0);
+}
+
+#tekstic {
+    border: 10px solid black;
+}
+
+#headeri {
+    border: 2px solid #ffffff;
+    text-shadow: 3px 3px rgba(34, 34, 34, 0.342);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    font-size: 45px;
+}
+
+#div {
+    border: 10px solid black;
+    color: rgb(255, 255, 255);
+    font-style: bold;
+    font-size: 20px;
+    text-align: left;
+    background-color: rgb(77, 74, 74);
+    text-shadow: 0.5px 0.5px rgb(10, 0, 0);
+    line-height: 150%;
+}
+
+#headeris {
+    border: 2px solid #ffffff;
+    text-shadow: 3px 3px rgba(34, 34, 34, 0.342);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    font-size: 45px;
+}
+
+#Hd {
+    border: 10px solid black;
+    color: rgb(255, 255, 255);
+    font-style: bold;
+    font-size: 20px;
+    text-align: left;
+    background-color: rgb(77, 74, 74);
+    text-shadow: 0.5px 0.5px rgb(10, 0, 0);
+    line-height: 150%;
+}
+
+#d {
+    border: 10px solid black;
+    color: rgb(255, 255, 255);
+    font-style: bold;
+    font-size: 20px;
+    text-align: left;
+    background-color: rgb(77, 74, 74);
+    text-shadow: 0.5px 0.5px rgb(10, 0, 0);
+    line-height: 150%;
+}
+
+#de {
+    border: 2px solid #ffffff;
+    text-shadow: 3px 3px rgba(34, 34, 34, 0.342);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    font-size: 45px;
+}
+
+#s {
+    border: 2px solid #ffffff;
+    text-shadow: 3px 3px rgba(34, 34, 34, 0.342);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    font-size: 45px;
+}
+
+#m {
+    border: 10px solid black;
+    color: rgb(255, 255, 255);
+    font-style: bold;
+    font-size: 20px;
+    text-align: left;
+    background-color: rgb(77, 74, 74);
+    text-shadow: 0.5px 0.5px rgb(10, 0, 0);
+    line-height: 150%;
+}
+
+#slj {
+    border: 10px solid black;
+    color: rgb(255, 255, 255);
+    font-style: bold;
+    font-size: 20px;
+    text-align: left;
+    background-color: rgb(77, 74, 74);
+    text-shadow: 0.5px 0.5px rgb(10, 0, 0);
+    line-height: 150%;
+}
+
+#p {
+    text-align: left;
+    border: solid 3px black;
+}
+
+#pr {
+    border: 2px solid #ffffff;
+    text-shadow: 3px 3px rgba(34, 34, 34, 0.342);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    font-size: 45px;
+}
+
+#z {
+    border: 2px solid #0f0707;
+    text-shadow: 3px 3px rgba(34, 34, 34, 0.342);
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-style: italic;
+    font-size: 22px;
+}
+
+#ja {
+    border: solid 3px rgb(240, 0, 0);
+    width: 330px;
+    height: 380px;
+    text-align: right;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+#ljep {
+    border: 2px solid #0f0707;
+    text-shadow: 3px 3px rgba(34, 34, 34, 0.342);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    font-size: 22px;
+}
+
+#ir {
+    color: rgb(255, 255, 255);
+    font-style: bold;
+    font-size: 20px;
+    text-align: left;
+    background-color: rgb(107, 107, 107);
+    text-shadow: 1px 1px rgb(37, 0, 0);
+    line-height: 150%;
+}
+
+#sup {
+    color: rgb(255, 255, 255);
+    font-style: bold;
+    font-size: 20px;
+    text-align: left;
+    background-color: rgb(4, 1, 14);
+    text-shadow: 1px 1px rgb(44, 1, 1);
+    line-height: 150%;
+}
+
+#lep {
+    border: 10px solid black;
+    color: black;
+    font-style: bold;
+    font-size: 20px;
+    text-align: left;
+    background-color: silver;
+    text-shadow: 0.5px 0.5px rgb(10, 0, 0);
+    line-height: 150%;
+}
+
+#sl {
+    border: solid 2px rgb(41, 1, 1);
+    width: 230px;
+    height: 380px;
+    text-align: right;
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+#Jasar {
+    border: solid 2px rgb(0, 35, 37);
+    color: rgb(36, 36, 36);
+    font-style: italic;
+    font-size: 12px;
+    text-shadow: 0.5px 0.5px slategray;
+}
+
+#ja1 {
+    border: 10px solid black;
+    color: black;
+    font-style: bold;
+    font-size: 20px;
+    text-align: left;
+    background-color: silver;
+    text-shadow: 0.5px 0.5px rgb(10, 0, 0);
+    line-height: 150%;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+
+#Zemun {
+    border: 10px solid black;
+    color: rgb(255, 255, 255);
+    font-style: bold;
+    font-size: 20px;
+    text-align: left;
+    background-color: rgb(17, 17, 19);
+    text-shadow: 1px 1px rgb(39, 39, 39);
+    line-height: 150%;
+}
+
+#ljeptir {
+    border: solid 2px rgb(41, 1, 1);
+    width: 330px;
+    height: 330px;
+    text-align: right;
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+#piksi {
+    border: solid 2px rgb(0, 35, 37);
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    font-size: 18px;
+    text-shadow: 0.5px 0.5px slategray;
+    text-align: center;
+}
